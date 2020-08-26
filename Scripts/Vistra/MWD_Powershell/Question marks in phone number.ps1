@@ -1,0 +1,2 @@
+﻿# Find Users with Telephone Numbers ending with ??
+get-aduser -Properties telephonenumber,office -SearchBase "OU=Users,OU=CEE,OU=Vistra,DC=work,DC=local" -Filter {(office -eq "Warsaw") -and (telephonenumber -like "*???")}  | select name, telephonenumber  |Out-GridView

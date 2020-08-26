@@ -1,0 +1,284 @@
+﻿"PSComputerName";"State";"Name";"Memory Assigned in GB";"Cluster Node";"CPUUsage";"Path";"Notes"
+"PLWAHV01";"Running";"PL-V1304";"2";"PLWAHV01";"0";"C:\ClusterStorage\Volume2\VM\PL-V1304";"BIRONTM audit (18-09-2018)
+
+RPE: Windows XP for LOMAG #1"
+"PLWAHV01";"Running";"PL-V1305";"2";"PLWAHV01";"0";"C:\ClusterStorage\Volume2\VM\PL-V1305";"BIRONTM audit (18-09-2018)
+
+Windows XP for LOMAG #2"
+"PLWAHV01";"Running";"PL-V1409";"2";"PLWAHV01";"0";"C:\ClusterStorage\Volume2\VM\PL-V1409";"BIRONTM audit (18-09-2018)
+
+RPE: Platnik CONVERTER Access-->SQL"
+"PLWAHV01";"Running";"PL-V1501";"4";"PLWAHV01";"4";"C:\ClusterStorage\Volume2\VM\PL-V1501";"BIRONTM audit (18-09-2018)
+
+PBE: Windows 7"
+"PLWAHV01";"Running";"PL-V1801";"4";"PLWAHV01";"0";"C:\ClusterStorage\volume2\vm\PL-V1801";"BIRONTM audit (18-09-2018)
+
+KMU: Atrium - dostep do modulu budzetowego Enova
+
+(Malgorzata Sobieszek, Anna Dafna, Aleksander Blik)"
+"PLWAHV01";"Running";"PLWAAP01";"16";"PLWAHV01";"5";"C:\ClusterStorage\Volume2\VM\PLWAAP01";"BIRONTM audit (18-09-2018)
+
+MBI: Licensing Server for Terminal Servers"
+"PLWAHV01";"Running";"PLWAAT01";"8";"PLWAHV01";"0";"C:\ClusterStorage\Volume2\VM\PLWAAT01";"BIRONTM audit (18-09-2018)
+
+PBE: UBUNTU *Payroll Slips cutter *Automations"
+"PLWAHV01";"Running";"PLWAAV01";"8";"PLWAHV01";"1";"C:\ClusterStorage\Volume2\VM\PLWAAV01";"BIRONTM audit (18-09-2018)
+
+MBI: McAfee Antyvirus Admin"
+"PLWAHV01";"Running";"PLWACL01";"20";"PLWAHV01";"1";"C:\ClusterStorage\Volume2\VM\PLWACL01";"BIRONTM audit (18-09-2018)
+
+SWL: Terminal Server for PL Exact Clients"
+"PLWAHV01";"Running";"PLWACL02";"4";"PLWAHV01";"1";"C:\ClusterStorage\Volume2\VM\PLWACL02";"BIRONTM audit (18-09-2018)
+
+KMU: CADENCE - KDF Symfonia access"
+"PLWAHV01";"Running";"PLWACL03";"4";"PLWAHV01";"4";"C:\ClusterStorage\Volume2\VM\PLWACL03";"BIRONTM audit (18-09-2018)
+
+KMU: ENOVA - Remote access for Banqsoft"
+"PLWAHV01";"Running";"PLWACL06";"4";"PLWAHV01";"0";"C:\ClusterStorage\Volume2\VM\PLWACL06";"BIRONTM audit (18-09-2018)
+
+KMU: SYMFONIA KDF - Remote access for PCG"
+"PLWAHV01";"Running";"PLWADB01";"6";"PLWAHV01";"2";"C:\ClusterStorage\Volume2\VM\PLWADB01";"BIRONTM audit (18-09-2018)
+
+RPE: Archive SQL databases (SQL 2012)"
+"PLWAHV01";"Running";"PLWADB10";"8";"PLWAHV01";"0";"C:\ClusterStorage\Volume2\VM\PLWADB10";"BIRONTM audit (18-09-2018)
+
+RPE: Archive SQL databases (SQL 2008)"
+"PLWAHV01";"Running";"PLWADC14";"8";"PLWAHV01";"3";"C:\ClusterStorage\Volume2\VM\PLWADC14";"BIRONTM audit (18-09-2018)
+
+MBI: IIS Server, TED IIS"
+"PLWAHV01";"Off";"PLWADMS04";"0";"PLWAHV01";"0";"C:\ClusterStorage\Volume2\VM\PLWADMS04";"BIRONTM audit (18-09-2018)
+
+JFI: ALFRESCO Try & Buy Aplikacja"
+"PLWAHV01";"Off";"PLWADMS05";"0";"PLWAHV01";"0";"C:\ClusterStorage\Volume2\VM\PLWADMS05";"BIRONTM audit (18-09-2018)
+
+JFI: ALFRESCO Try & Buy Baza Danych"
+"PLWAHV01";"Off";"PLWADMS06";"0";"PLWAHV01";"0";"C:\ClusterStorage\volume2\vm\PLWADMS06";"BIRONTM audit (18-09-2018)
+
+JFI: ALFRESCO Try & Buy Indeksujacy"
+"PLWAHV01";"Running";"PLWAES04";"20";"PLWAHV01";"1";"C:\ClusterStorage\Volume2\VM\PLWAES04\PLWAES04";"BIRONTM audit (18-09-2018)
+
+RPE: Archive SQL databases (SQL 2012)"
+"PLWAHV01";"Running";"PLWAFB01";"16";"PLWAHV01";"0";"C:\ClusterStorage\volume2\vm\PLWAFB01";"BIRONTM audit (18-09-2018)
+
+RPE: RAKS SQL Firebird Server for VFS"
+"PLWAHV01";"Running";"PLWALG01";"8";"PLWAHV01";"0";"C:\ClusterStorage\Volume2\VM\PLWALG01";"BIRONTM audit (18-09-2018)
+
+RPE: LanGuard for trinitycs.com domain"
+"PLWAHV01";"Running";"PLWAMO02";"4";"PLWAHV01";"0";"C:\ClusterStorage\Volume2\VM\PLWAMO02";"BIRONTM audit (18-09-2018)
+
+PBE: UBUNTU *Intranet of trinitycs.com domain"
+"PLWAHV01";"Off";"PLWAOV01";"0";"PLWAHV01";"0";"C:\ClusterStorage\volume2\vm\PLWAOV01";"BIRONTM audit (18-09-2018)
+
+MBI: OpsVIEW collector #1/2 from work.local AMS"
+"PLWAHV01";"Off";"PLWAOV02";"0";"PLWAHV01";"0";"C:\ClusterStorage\volume2\vm\PLWAOV02";"BIRONTM audit (18-09-2018)
+
+MBI: OpsVIEW collector #2/2 from work.local AMS"
+"PLWAHV01";"Running";"PLWATM01";"30";"PLWAHV01";"0";"C:\ClusterStorage\volume2\vm\PLWATM01";"BIRONTM audit (18-09-2018)
+
+MBI: Terminal Server for WARSAW - Ebooks Applications (JMO)"
+"PLWAHV01";"Running";"PLWATM08";"20";"PLWAHV01";"0";"C:\ClusterStorage\Volume2\VM\PLWATM08\PLWATM08";"BIRONTM audit (18-09-2018)
+
+MBI: Terminal Server for WARSAW (PL) in trinitycs.com - will be migrated"
+"PLWAHV01";"Running";"PLWATM10";"10";"PLWAHV01";"1";"C:\ClusterStorage\Volume2\VM\PLWATM10";"BIRONTM audit (18-09-2018)
+
+MBI: Terminal Server for LLS (UK) - will be migrated"
+"PLWAHV01";"Running";"PLWATM21";"10";"PLWAHV01";"0";"C:\ClusterStorage\Volume2\VM\PLWATM21";"BIRONTM audit (18-09-2018)
+
+MBI: Terminal Server for RAKS for VFS - will be migrated"
+"PLWAHV01";"Running";"TEMP_KMU";"8";"PLWAHV01";"4";"C:\ClusterStorage\Volume2\VM\TEMP_KMU";"BIRONTM audit (18-09-2018)
+
+KMU: Remote access to Benarx (Enova) - VM to reconfigure
+"
+"PLWAHV01";"Running";"WAWSRVDMS001";"8";"PLWAHV01";"0";"C:\ClusterStorage\volume2\cee\vm\WAWSRVDMS001";"BIRONTM audit (02-07-2018)
+
+JFI: YOOZ DMS for Poland"
+"PLWAHV01";"Running";"WAWSRVDMS003";"8";"PLWAHV01";"0";"C:\ClusterStorage\Volume2\CEE\VM\WAWSRVDMS003";"BIRONTM audit (02-07-2018)
+
+JFI: YOOZ DMS for Romania"
+"PLWAHV01";"Running";"WAWSRVDMS004";"8";"PLWAHV01";"0";"C:\ClusterStorage\Volume2\CEE\VM\WAWSRVDMS004";"BIRONTM audit (02-07-2018)
+
+YOOZ - Navision Connector: DMS Bulgaria"
+"PLWAHV01";"Running";"WAWSRVFOG001";"4";"PLWAHV01";"0";"C:\ClusterStorage\Volume2\CEE\VM\WAWSRVFOG001";"BIRONTM audit (02-07-2018)
+
+JFI: FOG Management Server"
+"PLWAHV01";"Running";"WAWSRVFS002";"8";"PLWAHV01";"0";"C:\ClusterStorage\volume2\cee\vm\WAWSRVFS002";"BIRONTM audit (02-07-2018)
+
+MBI: Backup File Server for VFS"
+"PLWAHV01";"Running";"WAWSRVFTP001";"4";"PLWAHV01";"0";"C:\ClusterStorage\volume2\cee\vm\WAWSRVFTP001";"BIRONTM audit (02-07-2018)
+
+MBI: FTP Server for VCS Clients (Pandora)"
+"PLWAHV01";"Running";"WAWSRVGIT001";"8";"PLWAHV01";"0";"C:\ClusterStorage\Volume2\CEE\VM\WAWSRVGIT001";"BIRONTM audit (22-10-2018)
+
+MBI: GIT (git.trinitycs.com)"
+"PLWAHV01";"Running";"WAWSRVGIT002";"6";"PLWAHV01";"0";"C:\ClusterStorage\volume2\cee\vm\WAWSRVGIT002";"BIRONTM audit (18-09-2018)
+
+JFI: GIT for software versions audit"
+"PLWAHV01";"Running";"WAWSRVLG001";"8";"PLWAHV01";"0";"C:\ClusterStorage\Volume2\CEE\VM\WAWSRVLG001";"BIRONTM audit (18-09-2018)
+
+RPE: GFI LanGuard server for VCS node #1/2"
+"PLWAHV01";"Running";"WAWSRVLG002";"4";"PLWAHV01";"0";"C:\ClusterStorage\Volume2\CEE\VM\WAWSRVLG002";"BIRONTM audit (18-09-2018)
+
+RPE: GFI LanGuard server for VCS node #2/2"
+"PLWAHV01";"Running";"WAWSRVOVS01";"4";"PLWAHV01";"0";"C:\ClusterStorage\Volume2\CEE\VM\WAWSRVOVS01";"BIRONTM audit (27-06-2018)
+
+CEE opsview slave (collector 1/2) 
+
+IP: 10.10.1.254
+login: conf
+pass: conf
+Opsview master IP: 10.30.10.201"
+"PLWAHV01";"Running";"WAWSRVOVS02";"4";"PLWAHV01";"0";"C:\ClusterStorage\Volume2\CEE\VM\WAWSRVOVS02";"BIRONTM audit (27-06-2018)
+
+CEE opsview slave (collector 2/2) 
+
+IP: 10.10.1.255
+login: conf
+pass: conf
+Opsview master IP: 10.30.10.201"
+"PLWAHV01";"Running";"WAWSRVSQL003";"8";"PLWAHV01";"0";"C:\ClusterStorage\Volume2\CEE\VM\WAWSRVSQL003";"PETRUCZYNIKR audit (14-08-2018)
+
+RPE: SQL Standard 2016 for BACKUP (work.local) multi instance - VCS
+
+license: ? cores"
+"PLWAHV01";"Running";"WAWSRVTM101";"10";"PLWAHV01";"0";"C:\ClusterStorage\Volume2\CEE\VM\WAWSRVTM101";""
+"PLWAHV02";"Running";"PLWAES01";"140";"PLWAHV02";"2";"C:\ClusterStorage\Volume2\VM\PLWAES10";"BIRONTM audit (18-09-2018)
+   
+MBI: Main Exact Server in trinitycs.com domain "
+"PLWAHV02";"Off";"PLWAYZ00";"0";"PLWAHV02";"0";"C:\ClusterStorage\volume2\vm\PLWAYZ00";"BIRONTM audit (18-09-2018)
+
+JFI: Test server for Yooz (new DMS)"
+"PLWAHV02";"Running";"WAWSRVTM001";"30";"PLWAHV02";"0";"C:\ClusterStorage\Volume2\CEE\VM\WAWSRVTM001";"BIRONTM audit (18-09-2018)
+
+MBI: Terminal Server for Warsaw (Poland) office (work.local)"
+"PLWAHV02";"Running";"WAWSRVTM002";"60";"PLWAHV02";"5";"C:\ClusterStorage\volume2\cee\vm\WAWSRVTM002";"BIRONTM audit (18-09-2018)
+
+MBI: Terminal Server for Krakow (Poland) office (work.local)"
+"PLWAHV02";"Running";"WAWSRVTM003";"64";"PLWAHV02";"7";"C:\ClusterStorage\volume2\cee\vm\WAWSRVTM003";"BIRONTM audit (18-09-2018)
+
+MBI: Terminal Server for Wroclaw (Poland) office (work.local)"
+"PLWAHV02";"Running";"WAWSRVTM004";"40";"PLWAHV02";"3";"C:\ClusterStorage\volume2\cee\vm\WAWSRVTM004";"BIRONTM audit (18-09-2018)
+
+MBI: Terminal Server for Poznan (Poland) office (work.local)"
+"PLWAHV02";"Running";"WAWSRVTM005";"60";"PLWAHV02";"6";"C:\ClusterStorage\volume2\cee\vm\WAWSRVTM005";"BIRONTM audit (18-09-2018)
+
+MBI: Terminal Server for Lublin (Poland) office (work.local)"
+"PLWAHV02";"Running";"WAWSRVTM006";"40";"PLWAHV02";"4";"C:\ClusterStorage\volume2\cee\vm\WAWSRVTM006";"BIRONTM audit (18-09-2018)
+
+MBI: Terminal Server for Bucharest (Romania) office (work.local)"
+"PLWAHV02";"Running";"WAWSRVTM007";"40";"PLWAHV02";"3";"C:\ClusterStorage\volume2\cee\vm\WAWSRVTM007";"BIRONTM audit (18-09-2018)
+
+MBI: Terminal Server for Sofia (Bulgaria) office (work.local)"
+"PLWAHV02";"Running";"WAWSRVTM008";"40";"PLWAHV02";"2";"C:\ClusterStorage\volume2\cee\vm\WAWSRVTM008";"BIRONTM audit (18-09-2018)
+
+MBI: Terminal Server for Budapest (Hungary) office (work.local)"
+"PLWAHV02";"Running";"WAWSRVTM009";"30";"PLWAHV02";"0";"C:\ClusterStorage\Volume2\CEE\VM\WAWSRVTM009";"BIRONTM audit (18-09-2018)
+
+MBI: Terminal Server for Prague (Czech Republic) & Bratislava (Slovakia) offices (work.local)"
+"PLWAHV02";"Running";"WAWSRVVPN001";"10";"PLWAHV02";"0";"C:\ClusterStorage\Volume2\CEE\VM\WAWSRVVPN001";"BIRONTM audit (17-01-2019)
+
+OpenVPN Server for Remote Access"
+"PLWAHV03";"Running";"PLWADC02";"12";"PLWAHV03";"0";"C:\ClusterStorage\Volume2\VM\PLWADC02";"BIRONTM audit (18-09-2018)
+
+MBI: Primary Domain Controller for trinitycs.com domain"
+"PLWAHV03";"Running";"PLWADE01";"10";"PLWAHV03";"0";"C:\ClusterStorage\volume2\vm\PLWADE01";"BIRONTM audit (18-09-2018)
+
+KHL: Rafal Chacinki development of TED"
+"PLWAHV03";"Running";"PLWADE02";"4";"PLWAHV03";"0";"C:\ClusterStorage\Volume2\VM\PLWADE02\PLWADE02";"BIRONTM audit (18-09-2018)
+
+KHL: Rafal Chacinski SQL Expres 2014"
+"PLWAHV03";"Running";"PLWAFS01";"10";"PLWAHV03";"5";"C:\ClusterStorage\Volume2\VM\PLWAFS01";"BIRONTM audit (18-09-2018)
+
+MBI: Main File Server in trinitycs.com domain"
+"PLWAHV03";"Running";"PLWAHR01";"24";"PLWAHV03";"1";"C:\ClusterStorage\Volume2\VM\PLWAHR01";"BIRONTM audit (18-09-2018)
+
+KMU: Enova365 Server #1 (Pulpity pracownikow)"
+"PLWAHV03";"Running";"PLWAHR02";"24";"PLWAHV03";"7";"C:\ClusterStorage\Volume2\VM\PLWAHR02";"BIRONTM audit (18-09-2018)
+
+KMU: Enova365 Server #2 (Buisness server)"
+"PLWAHV03";"Off";"WAWRTR001";"0";"PLWAHV03";"0";"C:\ClusterStorage\volume3\cee\WAWRTR001";"BIRONTM audit (22-08-2019)
+
+PBE & JFI: Router (old machine PLWART02) Nordea connectors, postfix
+"
+"PLWAHV03";"Running";"WAWSRVADMIN001";"20";"PLWAHV03";"5";"C:\ClusterStorage\Volume2\CEE\VM\WAWSRVADMIN001";"BIRONTM audit (27-06-2019)
+
+MBI: Admin server for IT & Service Delivery users (SII Contractors)
+"
+"PLWAHV03";"Running";"WAWSRVAP002";"8";"PLWAHV03";"0";"C:\ClusterStorage\volume2\cee\vm\WAWSRVAP002";"BIRONTM audit (27-06-2019)
+
+JFI: Application Server #2 Invoices Import (Wezyk hurtownia)
+"
+"PLWAHV03";"Running";"WAWSRVAP003";"6";"PLWAHV03";"0";"C:\ClusterStorage\volume2\cee\vm\WAWSRVAP003";"BIRONTM audit (27-06-2019)
+
+JFI: Application Server #3 Exact REST API for internal use test
+"
+"PLWAHV03";"Running";"WAWSRVAP004";"4";"PLWAHV03";"0";"C:\ClusterStorage\volume2\cee\vm\WAWSRVAP004";"BIRONTM audit (27-06-2019)
+
+JFI: Zendesk script for PBE reports"
+"PLWAHV03";"Running";"WAWSRVARC001";"8";"PLWAHV03";"0";"C:\ClusterStorage\Volume2\CEE\VM\WAWSRVARC001";"BIRONTM audit (27-06-2019)
+
+MBI: VCS PST files active & archive"
+"PLWAHV03";"Running";"WAWSRVCLN001";"8";"PLWAHV03";"4";"C:\ClusterStorage\volume2\cee\vm\WAWSRVCLN001";"BIRONTM audit (27-06-2019)
+
+PBE: Warsaw client (ECHO investment group) (SQL)
+"
+"PLWAHV03";"Running";"WAWSRVCLN002";"8";"PLWAHV03";"3";"C:\ClusterStorage\volume2\cee\vm\WAWSRVCLN002";"BIRONTM audit (27-06-2019)
+
+PBE: Warsaw client (ECHO investment group) (Exact)"
+"PLWAHV03";"Running";"WAWSRVCLN003";"8";"PLWAHV03";"0";"C:\ClusterStorage\Volume2\CEE\VM\WAWSRVCLN003";"BIRONTM audit (27-06-2019)
+
+RPE: Client for Budapest"
+"PLWAHV03";"Running";"WAWSRVCLN004";"8";"PLWAHV03";"0";"C:\ClusterStorage\Volume2\CEE\VM\WAWSRVCLN004";"BIRONTM audit (27-06-2019)
+
+PBE: Warsaw client (CD Projekt - VPN and other)"
+"PLWAHV03";"Running";"WAWSRVDC001";"8";"PLWAHV03";"0";"C:\ClusterStorage\volume2\cee\vm\WAWSRVDC001";"BIRONTM audit (01-07-2018)
+
+MBI: Domain Controller for work.local domain"
+"PLWAHV03";"Running";"WAWSRVFS001";"8";"PLWAHV03";"1";"C:\ClusterStorage\volume2\cee\vm\WAWSRVFS001";"BIRONTM audit (02-07-2018)
+
+MBI: File Server for VCS"
+"PLWAHV03";"Running";"WAWSRVHR011";"4";"PLWAHV03";"0";"C:\ClusterStorage\Volume2\CEE\VM\WAWSRVHR011";"BIRONTM audit (07-11--2018)
+
+KMU: TESTING Enova365 Server #1 (Pulpity pracownikow)"
+"PLWAHV03";"Running";"WAWSRVHR012";"4";"PLWAHV03";"0";"C:\ClusterStorage\Volume2\CEE\VM\WAWSRVHR012";"BIRONTM audit (07-11-2018)
+
+KMU: TESTING Enova365 Server #2 (Soneta Buisness server)"
+"PLWAHV03";"Running";"WAWSRVSQL001";"45";"PLWAHV03";"2";"C:\ClusterStorage\Volume2\CEE\VM\WAWSRVSQL001";"PETRUCZYNIKR audit (17-05-2018)
+
+RPE: SQL Standard 2016 for Warsaw (Poland) office (work.local) - ACCOUNTING
+
+license: 6 cores"
+"PLWAHV03";"Running";"WAWSRVSQL002";"45";"PLWAHV03";"2";"C:\ClusterStorage\Volume2\CEE\VM\WAWSRVSQL002";"PETRUCZYNIKR audit (17-05-2018)
+
+RPE: SQL Standard 2016 for Warsaw (Poland) office (work.local) - PAYROLL
+
+license: 4 cores"
+"PLWAHV03";"Running";"WAWSRVSQL006";"16";"PLWAHV03";"0";"C:\ClusterStorage\Volume2\CEE\VM\WAWSRVSQL006";"PETRUCZYNIKR audit (02-07-2018)
+
+RPE: SQL Standard 2016 for Bucharest (Romania) office (work.local)
+
+license: 2 cores"
+"PLWAHV03";"Running";"WAWSRVSQL007";"16";"PLWAHV03";"0";"C:\ClusterStorage\volume2\cee\vm\WAWSRVSQL007";"PETRUCZYNIKR audit (19-07-2018)
+
+RPE: SQL Standard 2016 for Sofia (Bulgaria) office (work.local)
+
+license: 2 cores"
+"PLWAHV03";"Running";"WAWSRVSQL008";"20";"PLWAHV03";"0";"C:\ClusterStorage\Volume2\CEE\VM\WAWSRVSQL008";"PETRUCZYNIKR audit (25-04-2018)
+
+RPE: SQL Standard 2016 for Budapest (Hungary) office (work.local)
+
+license: 2 cores"
+"PLWAHV03";"Running";"WAWSRVSQL009";"16";"PLWAHV03";"0";"C:\ClusterStorage\volume2\cee\vm\WAWSRVSQL009";"RPE: SQL Standard 2016 for Prague (Czech Republic) office (work.local)
+
+license: 2 cores"
+"PLWAHV03";"Running";"WAWSRVTS001";"24";"PLWAHV03";"0";"C:\ClusterStorage\Volume4\VM\WAWSRVTS001";"BIRONTM audit (04-04-2018)
+
+MBI: Terminal Server for Warsaw Poland - Payroll Department "
+"PLWAHV03";"Off";"WAWSRVTS002";"0";"PLWAHV03";"0";"C:\ClusterStorage\Volume4\VM\WAWSRVTS002";"BIRONTM audit (04-04-2018)
+
+MBI: Terminal Server for Warsaw Poland - MCS Department"
+"PLWAHV03";"Running";"WAWSRVWWW001";"6";"PLWAHV03";"0";"C:\ClusterStorage\volume2\cee\vm\WAWSRVWWW001";"BIRONTM audit (18-09-2018)
+
+JFI: WWW Server for Exact & other (JFI, MLE)"
+"PLWAHV03";"Running";"WAWWRKCLN001";"4";"PLWAHV03";"0";"C:\ClusterStorage\volume2\cee\vm\WAWWRKCLN001";"BIRONTM audit (18-09-2018)
+
+MBI: Spanish SAP for Poznan (Aneta Jankowska)"

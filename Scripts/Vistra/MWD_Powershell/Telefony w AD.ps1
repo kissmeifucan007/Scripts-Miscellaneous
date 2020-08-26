@@ -1,0 +1,5 @@
+﻿get-aduser -filter {StreetAddress -like "*Jerozolimskie*" -and (enabled -eq $true)} -Properties * | select cn,SamAccountName,initials,telephoneNumber | export-csv telefony-warszawa.csv -Delimiter ";" -Encoding UTF8 -NoTypeInformation
+get-aduser -filter {City -like "*Lublin*" -and (enabled -eq $true)} -Properties * -server work.local | select cn,SamAccountName,initials,telephoneNumber | export-csv telefony-lublin.csv -Delimiter ";" -Encoding UTF8 -NoTypeInformation
+get-aduser -filter {City -like "*Poznan*" -and (enabled -eq $true)} -Properties * -server work.local | select cn,SamAccountName,initials,telephoneNumber | export-csv telefony-poznan.csv -Delimiter ";" -Encoding UTF8 -NoTypeInformation
+get-aduser -filter {City -like "*Wroclaw*" -and (enabled -eq $true)} -Properties * -server work.local | select cn,SamAccountName,initials,telephoneNumber | export-csv telefony-wroclaw.csv -Delimiter ";" -Encoding UTF8 -NoTypeInformation
+get-aduser -filter {City -like "*Krakow*" -and (enabled -eq $true)} -Properties * -server work.local | select cn,SamAccountName,initials,telephoneNumber | export-csv telefony-krakow.csv -Delimiter ";" -Encoding UTF8 -NoTypeInformation

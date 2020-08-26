@@ -1,0 +1,1 @@
+﻿(get-aduser -SearchBase "OU=_IT Users,OU=Vistra,DC=work,DC=local" -Filter {enabled -eq $true}).count

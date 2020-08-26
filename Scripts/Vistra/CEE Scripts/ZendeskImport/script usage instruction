@@ -1,0 +1,10 @@
+1. Save Word file as filtered html
+2. Copy-paste all images from the image folder to new Zendesk article
+3. Add all images to the article
+4. Copy resulting html to html file; erase html code from article
+5. Run the script using both html files:  word export, html from zendesk with image paths
+	Script does the following based mostly on Regular Expressions:
+		- erases unneeded top and bottom of the exported article
+        - corrects old image source paths to the newly created ones
+		- creates result html file for import
+6. Copy-paste result html to Zendesk article in html mode 		

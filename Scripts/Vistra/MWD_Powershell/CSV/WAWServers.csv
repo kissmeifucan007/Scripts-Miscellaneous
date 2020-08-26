@@ -1,0 +1,33 @@
+name	ipv4address	operatingsystem	description
+WAWSRVDC001	10.10.10.110	Windows Server 2012 R2 Datacenter	Warsaw Domain Controller - Datacentre (2012 R2)
+WAWSRVDC003	10.10.10.210	Windows Server 2012 R2 Standard	Warsaw Domain Controller - SwedeCentre (2012 R2)
+WAWSRVFS002	10.10.10.32	Windows Server 2012 R2 Datacenter	VFS - File Server
+WAWSRVADMIN001	10.10.10.99	Windows Server 2012 R2 Datacenter	IT Admin Server (WAW)
+WAWSRVWSUS001	10.10.10.61	Windows Server 2012 R2 Datacenter	VCS - WSUS Main (Warsaw DC)
+WAWSRVFS001	10.10.10.31	Windows Server 2012 R2 Datacenter	VCS - File Server
+WAWSRVWSUS003	10.10.10.63	Windows Server 2012 R2 Standard	VCS - WSUS Slave (Warsaw office site)
+WAWSRVAP001	10.10.10.51	Windows Server 2012 R2 Datacenter	VCS - Warsaw Application Server 1 - Ebooks
+WAWSRVLG001	10.10.10.71	Windows Server 2012 R2 Datacenter	VCS - GFI LanGuard node 1/2
+WAWSRVLG002	10.10.10.72	Windows Server 2012 R2 Datacenter	VCS - GFI LanGuard node 2/2
+WAWSRVTM004	10.10.10.44	Windows Server 2012 R2 Datacenter	VCS - Poznan Terminal Server
+WAWSRVTM008	10.10.10.48	Windows Server 2012 R2 Datacenter	VCS - Budapest Terminal Server
+WAWSRVSQL008	10.10.10.28	Windows Server 2012 R2 Datacenter	VCS - SQL 2016 Standard Server for Budapest (HU)
+WAWSRVSQL001	10.10.10.21	Windows Server 2012 R2 Datacenter	VCS - SQL 2016 Standard Server for Warsaw (PL)
+WAWSRVSQL002	10.10.10.22	Windows Server 2012 R2 Datacenter	VCS - SQL 2016 Standard Server for Warsaw (PL)
+WAWSRVTM001	10.10.10.41	Windows Server 2012 R2 Datacenter	VCS - Warsaw Terminal Server
+WAWSRVTM003	10.10.10.43	Windows Server 2012 R2 Datacenter	VCS - Wroclaw Terminal Server
+WAWSRVTM005	10.10.10.45	Windows Server 2012 R2 Datacenter	VCS - Lublin Terminal Server
+WAWSRVTM006	10.10.10.46	Windows Server 2012 R2 Datacenter	VCS - Bucharest Terminal Server
+WAWSRVAP002	10.10.10.52	Windows Server 2012 R2 Datacenter	VCS - Warsaw Application Server 2 - Wezyk
+WAWSRVSQL006	10.10.10.26	Windows Server 2012 R2 Datacenter	VCS - SQL 2016 Standard Server for Bucharest (RO)
+WAWSRVTM007	10.10.10.47	Windows Server 2012 R2 Datacenter	VCS - Sofia Terminal Server
+WAWSRVSQL007	10.10.10.27	Windows Server 2012 R2 Datacenter	VCS - SQL 2016 Standard Server for Sofia (BG)
+WAWSRVARC001	10.10.10.191	Windows Server 2012 R2 Datacenter	VCS - Archive Server
+WAWSRVAP003	10.10.10.53	Windows Server 2012 R2 Datacenter	VCS - Warsaw Application Server 1 - JFI
+WAWSRVTM002	10.10.10.42	Windows Server 2012 R2 Datacenter	VCS - Krakow Terminal Server
+WAWSRVPS001	10.10.10.130	Windows Server 2012 R2 Datacenter	VCS - Print Server (uniFLOW testing)
+WAWSRVSQL003	10.10.10.23	Windows Server 2012 R2 Datacenter	VCS - SQL 2016 Standard Server ARCHIVE
+WAWSRVSQL009	10.10.10.29	Windows Server 2012 R2 Datacenter	VCS - SQL 2016 Standard Server for Prague (CZ)
+WAWSRVTM009	10.10.10.49	Windows Server 2012 R2 Datacenter	VCS - Prague & Bratislava Terminal Server
+WAWSRVPRN001	10.10.10.120	Windows Server 2012 R2 Standard	VCS - Warsaw Print Server & (Canon uniFLOW)
+WAWSRVTS001	10.10.10.141	Windows Server 2012 R2 Datacenter	VCS - Warsaw Terminal Server (Payroll)

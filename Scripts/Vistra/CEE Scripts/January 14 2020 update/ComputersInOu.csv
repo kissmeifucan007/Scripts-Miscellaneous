@@ -1,0 +1,29 @@
+﻿OU;Windows 7 count;Server 2008 count
+OU=Amsterdam,OU=Vistra,DC=work,DC=local;368;15
+OU=Barcelona,OU=Vistra,DC=work,DC=local;23;0
+OU=DubaiCyprus,OU=Vistra,DC=work,DC=local;23;0
+OU=Geneva,OU=Vistra,DC=work,DC=local;35;1
+OU=Madrid,OU=Vistra,DC=work,DC=local;5;0
+OU=Malta,OU=Vistra,DC=work,DC=local;39;0
+OU=Antwerp,OU=Vistra,DC=work,DC=local;7;0
+OU=Eemnes,OU=Vistra,DC=work,DC=local;82;6
+OU=Frankfurt,OU=Vistra,DC=work,DC=local;18;0
+OU=Rotterdam,OU=Vistra,DC=work,DC=local;9;0
+OU=Zug,OU=Vistra,DC=work,DC=local;9;0
+OU=Zurich,OU=Vistra,DC=work,DC=local;64;17
+OU=Warsaw,OU=Vistra,DC=work,DC=local;207;0
+OU=Poznan,OU=Vistra,DC=work,DC=local;0;0
+OU=VFS,OU=Servers,OU=CEE,OU=Vistra,DC=work,DC=local;0;0
+OU=VFS,OU=Workstations,OU=CEE,OU=Vistra,DC=work,DC=local;29;0
+OU=Workstations Test,OU=VFS,OU=Workstations,OU=CEE,OU=Vistra,DC=work,DC=local;6;0
+OU=Sofia,OU=VCS,OU=Workstations,OU=CEE,OU=Vistra,DC=work,DC=local;21;0
+OU=Bratislava,OU=VCS,OU=Workstations,OU=CEE,OU=Vistra,DC=work,DC=local;0;0
+OU=Budapest,OU=VCS,OU=Workstations,OU=CEE,OU=Vistra,DC=work,DC=local;23;0
+OU=Lublin,OU=VCS,OU=Workstations,OU=CEE,OU=Vistra,DC=work,DC=local;42;0
+OU=Bucharest,OU=VCS,OU=Workstations,OU=CEE,OU=Vistra,DC=work,DC=local;22;0
+OU=Poznan,OU=VCS,OU=Workstations,OU=CEE,OU=Vistra,DC=work,DC=local;20;0
+OU=Warsaw,OU=VCS,OU=Workstations,OU=CEE,OU=Vistra,DC=work,DC=local;3;0
+OU=Krakow,OU=VCS,OU=Workstations,OU=CEE,OU=Vistra,DC=work,DC=local;30;0
+OU=Prague,OU=VCS,OU=Workstations,OU=CEE,OU=Vistra,DC=work,DC=local;12;0
+OU=Wroclaw,OU=VCS,OU=Workstations,OU=CEE,OU=Vistra,DC=work,DC=local;27;0
+OU=CEE,OU=Vistra,DC=work,DC=local;231;0
