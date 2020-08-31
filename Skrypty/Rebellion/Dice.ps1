@@ -23,14 +23,14 @@ class Die {
        $this.Hits = $Hits
        $this.Color = $color
    }
-  static [int[]] $currentResult = 0,0,0 
+  static [int[]] $currentResult = 0,0,0
   static [int[]] $preventedHits = 0,0,0
 
 
    Roll(){
       $number = get-random -Minimum 1 -Maximum 6
-      $this.Hits[$number]     
-   }  
+      $this.Hits[$number]
+   }
 
    }
    <#
@@ -48,8 +48,8 @@ class Die {
           PreventRed {$preventRed++}
           Any {$any++}
           Default {}
-      } 
-   
+      }
+
    }
 
    ResetRolls(){
@@ -66,7 +66,7 @@ class Die {
 
 class Roller{
   static  [Die]$blackDie = [Die]::new(@([DiceHits]::Black,[DiceHits]::Black,[DiceHits]::Any,[DiceHits]::Black2,[DiceHits]::No,[DiceHits]::No))
-  static  [Die]$redDie   = [Die]::new(@([DiceHits]::Red,[DiceHits]::Red,[DiceHits]::Any,[DiceHits]::Red2,[DiceHits]::No,[DiceHits]::No)) 
+  static  [Die]$redDie   = [Die]::new(@([DiceHits]::Red,[DiceHits]::Red,[DiceHits]::Any,[DiceHits]::Red2,[DiceHits]::No,[DiceHits]::No))
   static  [Die]$greenDie = [Die]::new(@([DiceHits]::Any,[DiceHits]::Any,[DiceHits]::No,[DiceHits]::No,[DiceHits]::No,[DiceHits]::No))
 
   static Roll ([DiceColors]$color){
@@ -96,3 +96,6 @@ for ($i =0; $i -le $greenRolls; $i++){
 }
 
 [Die]::currentResult
+
+
+get-aduser -filter {name -like ""}
