@@ -1,2 +1,0 @@
-﻿ $date = (Get-Date ).AddDays(-360)
- get-aduser -filter {enabled -eq $false -and (whenchanged -gt $date) -and (streetaddress -notlike "*Bukowińska*")}-server work.local -properties * -SearchBase "OU=Users,OU=CEE,OU=Vistra,DC=work,DC=local"| select name

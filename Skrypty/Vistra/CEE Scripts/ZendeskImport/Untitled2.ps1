@@ -1,1 +1,0 @@
-﻿get-aduser ferrerm -properties passwordexpired

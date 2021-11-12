@@ -1,8 +1,0 @@
-ofiz:AAD_PREMIUM - Azure Active Directory Premium P1
-ofiz:ENTERPRISEPACK - Office 365 E3
-ofiz:MCOMEETADV - Audio Conferencing
-ofiz:FLOW_FREE - Microsoft Flow Free
-ofiz:EXCHANGEENTERPRISE - Exchange Online (Plan 2)
-ofiz:MCOSTANDARD - Skype for Business Online (Plan 2)
-ofiz:POWER_BI_STANDARD - Power BI (free)
-ofiz:VISIOCLIENT - Visio Online Plan 2

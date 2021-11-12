@@ -1,4 +1,0 @@
-XrxAddressBookId,DisplayName,FirstName,LastName,Company,XrxAllFavoritesOrder,MemberOf,IsDL,XrxApplicableWorkflows,FaxNumber,XrxIsFaxFavorite,E-mailAddress,XrxIsEmailFavorite,InternetFaxAddress,ScanNickName,XrxIsScanFavorite,ScanTransferProtocol,ScanServerAddress,ScanServerPort,ScanDocumentPath,ScanLoginName,ScanLoginPassword,ScanSMBShare,ScanNDSTree,ScanNDSContext,ScanNDSVolume
-1,Dorota Kalinowska,Dorota,Kalinowska,,kalinowskad,,0,,,,dorota.kalinowska@vistra.com,0,,,0,3,10.10.10.210,0,\HomeDir$\kalinowskad\!SCAN,ceesrvscn,,\HomeDir$\kalinowskad\!SCAN,,,
-1,Malgorzata Kalisiak,Malgorzata,Kalisiak,,kalisiakm,,0,,,,malgorzata.kalisiak@vistra.com,0,,,0,3,10.10.10.210,0,\HomeDir$\kalisiakm\!SCAN,ceesrvscn,,\HomeDir$\kalisiakm\!SCAN,,,
-1,Jan Kondrusik,Jan,Kondrusik,,kondrusikj,,0,,,,jan.kondrusik@vistra.com,0,,Jan Kondrusik,0,3,10.10.10.110,0,\homedir$\kondrusikj\!SCAN,work.local\ceesvcscn,,\homedir$\kondrusikj\!SCAN,,,

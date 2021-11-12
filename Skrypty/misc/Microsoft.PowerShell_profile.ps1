@@ -1,1 +1,0 @@
-set-alias -Name tc -Value test-connection

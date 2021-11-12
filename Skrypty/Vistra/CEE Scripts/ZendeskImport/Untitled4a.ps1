@@ -1,1 +1,0 @@
-﻿get-adcomputer -filter {name -like "GVASRVPRN*"}

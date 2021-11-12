@@ -1,1 +1,0 @@
-﻿get-aduser kevin.wilsoe -Properties *
